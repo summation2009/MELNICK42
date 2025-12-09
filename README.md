@@ -1,4 +1,4 @@
-# DEFAULT PIN DISPLAY MATRIX
+# 3D MELNICK42
 
-![DEFAULT PIN DISPLAY MATRIX](https://github.com/summation2009/MTH-75E/blob/main/EX_Matrix_Text/PIN_MATRIX.jpg?raw=true "Screen shot")
+![3D MELNICK42](https://github.com/summation2009/MELNICK42/blob/main/MELNICK42/3D_PCB1_2025-10-22-2.png?raw=true "Screen shot")
 
